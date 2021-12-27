@@ -82,7 +82,7 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "blog"
         name = "Blog"
-        url = "/about"
+        url = "writings/writings-index"
       [[languages.en.menu.main]]
         identifier = "photography"
         name = "Photography"
